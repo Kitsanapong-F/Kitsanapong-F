@@ -1,8 +1,8 @@
-###  [Myname]=kitsanapong 
-###  [Mynickname]=Frame
-###  [What is being learned 📖]
-#### Basic C language
-#### Basic Python language 
+###  :Myname=kitsanapong 
+###  :Mynickname=Frame
+###  :What is being learned 📖
+####   -Basic C language
+####   -Basic Python language 
    
       
 

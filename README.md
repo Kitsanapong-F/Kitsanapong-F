@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://your-image-url.com/background.jpg" alt="background" width="100%">
+</p>
 
+<h1 align="center">Welcome to My Project</h1>
 ###  :Myname=kitsanapong 
 ###  :Mynickname=Frame
 ###  :I’m currently learning📖

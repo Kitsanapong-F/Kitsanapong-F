@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Kitsanapong-F/Kitsanapong-F/blob/main/WELCOME%20TO.png?raw=true" alt="Welcome Banner" width="100%">
+  <img src="https://github.com/Kitsanapong-F/Kitsanapong-F/blob/main/WELCOME%20TO.png?raw=true" alt="Welcome Banner" width="150%">
 </p>
 
 ###  :Myname=kitsanapong 

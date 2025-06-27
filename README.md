@@ -1,6 +1,8 @@
 ###  [Myname]=kitsanapong 
 ###  [Mynickname]=Frame
-###  [What is being learned]🎨🧸
+###  [What is being learned 📖]
+#### Basic C language
+     ![อ่านหนังสือ](https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif)
       
 
 

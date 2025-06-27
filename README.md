@@ -4,6 +4,7 @@
 ###  :What is being learned 📖
 ####   -Basic C language
 ####   -Basic Python language 
+###  :DM Kitsanapong.chaisu@live.rmutl.ac.th
 
 
 

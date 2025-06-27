@@ -1,8 +1,3 @@
-<table><tr><td align="center" bgcolor="#f0f0f0">
-
-<h3>ยินดีต้อนรับเข้าสู่โปรไฟล์ของฉัน 🎉</h3>
-
-</td></tr></table>
 
 ###  :Myname=kitsanapong 
 ###  :Mynickname=Frame
@@ -10,7 +5,6 @@
 ####   -Basic C language
 ####   -Basic Python language 
 
-<img src="https://i.imgur.com/kq2b6Og.png" width="100%" />
 
 
       

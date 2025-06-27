@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="./welcome to.png" alt="Welcome Banner" width="100%">
+</p>
 
+<h1 align="center">👋 Hello! I'm Frame</h1>
 ###  :Myname=kitsanapong 
 ###  :Mynickname=Frame
 ###  :I’m currently learning📖🌱

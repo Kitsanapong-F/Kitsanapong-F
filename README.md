@@ -1,5 +1,8 @@
-###  [Myname]=kitsanapong 👋
+###  [Myname]=kitsanapong 
 ###  [Mynickname]=Frame
+###  [What is being learned]
+      
+
 
 <!--
 **Kitsanapong-F/Kitsanapong-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

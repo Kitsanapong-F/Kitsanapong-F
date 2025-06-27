@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://your-image-url.com/background.jpg" alt="background" width="100%">
-</p>
-
-<h1 align="center">Welcome to My Project</h1>
+<div style="background-color:#f0f0f0;padding:20px;border-radius:10px;">
+  <h1>📘 My Project Title</h1>
+  <p>This section has a gray background</p>
+</div>
 ###  :Myname=kitsanapong 
 ###  :Mynickname=Frame
 ###  :I’m currently learning📖

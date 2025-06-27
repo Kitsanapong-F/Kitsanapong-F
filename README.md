@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./WELCOME TO.png" alt="Welcome Banner" width="100%">
+</p>
 ###  :Myname=kitsanapong 
 ###  :Mynickname=Frame
 ###  :I’m currently learning📖🌱

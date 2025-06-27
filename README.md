@@ -1,7 +1,7 @@
 
 ###  :Myname=kitsanapong 
 ###  :Mynickname=Frame
-###  :What is being learned 📖
+###  :I’m currently learning📖
 ####   -Basic C language
 ####   -Basic Python language 
 ###  :DM Kitsanapong.chaisu@live.rmutl.ac.th
